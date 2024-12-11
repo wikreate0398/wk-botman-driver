@@ -44,5 +44,7 @@
                 "BotMan\\Drivers\\Telegram\\Providers\\TelegramServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
