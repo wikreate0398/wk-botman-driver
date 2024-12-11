@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "wk-botman/botman": "^2.1"
+        "botman/botman": "^2.0"
     },
     "require-dev": {
         "illuminate/contracts": "~5.5.0",
@@ -44,7 +44,5 @@
                 "BotMan\\Drivers\\Telegram\\Providers\\TelegramServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
