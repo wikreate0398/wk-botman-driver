@@ -16,10 +16,9 @@
     ],
     "require": {
         "php": ">=7.0",
-        "wk-botman/botman": "~1.0"
+        "wk-botman/botman": "~2.0|~2.1"
     },
     "require-dev": {
-        "botman/studio-addons": "~1.0",
         "illuminate/contracts": "~5.5.0",
         "phpunit/phpunit": "~5.0",
         "mockery/mockery": "dev-master",
