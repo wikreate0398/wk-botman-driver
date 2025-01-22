@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "wk-botman/botman": "^2.0"
+        "wk-botman/botman": "dev-main"
     },
     "require-dev": {
         "illuminate/contracts": "~5.5.0",
